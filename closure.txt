@@ -461,3 +461,14 @@ function countryCodeToName(countryCode) {
                 return name;
         }
 }
+
+module.exports = {
+    countryForE164Number: countryForE164Number
+    formatNumberForMobileDialing: formatNumberForMobileDialing
+    isValidNumber: isValidNumber
+    formatE164: formatE164
+    formatInternational: formatInternational
+    formatLocal: formatLocal
+    cleanPhone: cleanPhone
+    countryCodeToName: countryCodeToName
+};
