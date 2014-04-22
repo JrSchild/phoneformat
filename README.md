@@ -7,6 +7,10 @@ Javascript Phone Number Formatter
 This is the phoneformat.js file from <a href="http://www.phoneformat.com">PhoneFormat.com</A>
 
 <HR>
+This is a fork from the original phoneformat.js. It is modified to be able to require PhoneFormat.js in node.
+```var phoneformat = require('./phoneformat');```
+
+<HR>
 <h3>When will you update PhoneFormat.js to the latest version of libphonenumber?</h3>
 Unfortunately I don't plan on updating this code very often.  More often then not PhoneFormat.js will NOT be using the <a href="https://code.google.com/p/libphonenumber/source/browse/#svn%2Ftrunk%2Fjavascript%2Fi18n%2Fphonenumbers">latest version</a> of libphonenumber.  Not to worry because i'm going to show you just how easy it is for you to get PhoneFormat.js using the latest version of libphonenumber!
 
