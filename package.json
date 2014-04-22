@@ -1,0 +1,20 @@
+{
+  "name": "phoneformat.js",
+  "version": "0.0.1",
+  "description": "Javascript Phone Number Formatter for Node",
+  "main": "PhoneFormat.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JrSchild/phoneformat.js.git"
+  },
+  "keywords": [
+    "libphonenumber",
+    "phoneformat.js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JrSchild/phoneformat.js/issues"
+  },
+  "homepage": "https://github.com/JrSchild/phoneformat.js"
+}
