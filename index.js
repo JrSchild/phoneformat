@@ -2,7 +2,7 @@
 
 Compiled Tuesday November 19, 2013 at 12:18pm America/New_York
 
-Version: libphonenumber r622
+Version: libphonenumber r655
 
 ------------------------------------------------------------------------
 
