@@ -1,5 +1,5 @@
 {
-  "name": "phoneformat.js",
+  "name": "phoneformat",
   "version": "0.0.1",
   "description": "Javascript Phone Number Formatter for Node",
   "main": "PhoneFormat.js",
